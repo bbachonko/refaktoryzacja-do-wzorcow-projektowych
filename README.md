@@ -1,1 +1,3 @@
-# refaktoryzacja-do-wzorcow-projektowych
+﻿Zadania
+
+01. CodeSmells
