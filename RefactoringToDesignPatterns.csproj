@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="01.CodeSmells\Solutions\10.RefusedBequest.cs" />
+    <Compile Remove="CH01_CodeSmells\Solutions\RefusedBequest.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="01.CodeSmells\Solutions\10.RefusedBequest.cs" />
+    <None Include="CH01_CodeSmells\Solutions\RefusedBequest.cs" />
   </ItemGroup>
 
 </Project>

@@ -3,20 +3,112 @@
   "WorkspaceRootPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:01.codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch03_refactoringwithtests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch03_refactoringwithtests\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.codesmells\\solutions\\10.refusedbequest.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:01.codesmells\\solutions\\10.refusedbequest.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch02_metrics\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch02_metrics\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\primitiveobsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\primitiveobsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\refusedbequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\refusedbequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\shotgunsurgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\shotgunsurgery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\speculativegenerality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\speculativegenerality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\temporaryfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\temporaryfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\switchstatements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\switchstatements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\parallelinheritancehierarchies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\parallelinheritancehierarchies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\middleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\middleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\messagechains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\messagechains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\longparameterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\longparameterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\longmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\longmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\longmessagechain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\longmessagechain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\lazyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\lazyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\largeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\largeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\inappropriateintimacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\inappropriateintimacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\godclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\godclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\featureenvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\featureenvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\duplicatedcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\duplicatedcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\divergentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\divergentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\dataclumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\dataclumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch01_codesmells\\solutions\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch01_codesmells\\solutions\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\goodcode\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\goodcode\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\badcode\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\badcode\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\badcode\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:ch_01_goodandbadstandards\\ch01_codingstandardsandprinciples\\badcode\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +118,358 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "10.RefusedBequest.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
-              "RelativeDocumentMoniker": "01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
-              "RelativeToolTip": "01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T11:49:38.159Z",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH03_RefactoringWithTests\\README.md",
+              "RelativeDocumentMoniker": "CH03_RefactoringWithTests\\README.md",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH03_RefactoringWithTests\\README.md",
+              "RelativeToolTip": "CH03_RefactoringWithTests\\README.md",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-10T23:09:27.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Readme.md",
-              "RelativeDocumentMoniker": "01.CodeSmells\\Readme.md",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Readme.md",
-              "RelativeToolTip": "01.CodeSmells\\Readme.md",
-              "ViewState": "AQIAALsBAAAAAAAAAAAAAAACAABBAAAA",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH02_Metrics\\Readme.md",
+              "RelativeDocumentMoniker": "CH02_Metrics\\Readme.md",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH02_Metrics\\Readme.md",
+              "RelativeToolTip": "CH02_Metrics\\Readme.md",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-08T18:38:06.175Z",
+              "WhenOpened": "2024-09-10T23:09:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemporaryField.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\TemporaryField.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\TemporaryField.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\TemporaryField.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\TemporaryField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SwitchStatements.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\SwitchStatements.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\SwitchStatements.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\SwitchStatements.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\SwitchStatements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:58.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeculativeGenerality.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\SpeculativeGenerality.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\SpeculativeGenerality.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\SpeculativeGenerality.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\SpeculativeGenerality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShotgunSurgery.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\ShotgunSurgery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefusedBequest.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\RefusedBequest.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\RefusedBequest.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\RefusedBequest.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\RefusedBequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:55.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Readme.md",
-              "RelativeDocumentMoniker": "Readme.md",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Readme.md",
-              "RelativeToolTip": "Readme.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-09-08T13:48:37.553Z"
+              "Title": "PrimitiveObsession.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\PrimitiveObsession.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\PrimitiveObsession.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\PrimitiveObsession.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\PrimitiveObsession.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:54.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "DocumentIndex": 8,
+              "Title": "ParallelInheritanceHierarchies.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ParallelInheritanceHierarchies.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\ParallelInheritanceHierarchies.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\ParallelInheritanceHierarchies.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\ParallelInheritanceHierarchies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T13:47:00.872Z"
+              "WhenOpened": "2024-09-10T23:08:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiddleMan.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\MiddleMan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LongParameterList.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongParameterList.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LongParameterList.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongParameterList.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LongParameterList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LongMethod.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LongMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LongMessageChain.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMessageChain.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LongMessageChain.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LongMessageChain.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LongMessageChain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LazyClass.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LazyClass.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LazyClass.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LazyClass.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LazyClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:45.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LargeClass.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LargeClass.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\LargeClass.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\LargeClass.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\LargeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:44.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GodClass.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\GodClass.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\GodClass.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\GodClass.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\GodClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeatureEnvy.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\FeatureEnvy.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\FeatureEnvy.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\FeatureEnvy.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\FeatureEnvy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:42.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DuplicatedCode.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DuplicatedCode.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\DuplicatedCode.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DuplicatedCode.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\DuplicatedCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataClumps.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DataClumps.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\DataClumps.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DataClumps.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\DataClumps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataClass.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DataClass.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\DataClass.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DataClass.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\DataClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageChains.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MessageChains.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\MessageChains.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\MessageChains.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\MessageChains.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\Comments.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\Comments.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\Comments.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DivergentChange.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DivergentChange.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\DivergentChange.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\DivergentChange.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\DivergentChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InappropriateIntimacy.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\InappropriateIntimacy.cs",
+              "RelativeDocumentMoniker": "CH01_CodeSmells\\Solutions\\InappropriateIntimacy.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH01_CodeSmells\\Solutions\\InappropriateIntimacy.cs",
+              "RelativeToolTip": "CH01_CodeSmells\\Solutions\\InappropriateIntimacy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\GoodCode\\Data\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\GoodCode\\Data\\DatabaseManager.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\GoodCode\\Data\\DatabaseManager.cs",
+              "RelativeToolTip": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\GoodCode\\Data\\DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:08:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\MyClass.cs",
+              "RelativeDocumentMoniker": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\MyClass.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\MyClass.cs",
+              "RelativeToolTip": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\MyClass.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAiwIQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:04:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\BusinessRuleException.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\BusinessRuleException.cs",
+              "RelativeToolTip": "CH_01_GoodAndBadStandards\\CH01_CodingStandardsAndPrinciples\\BadCode\\BusinessRuleException.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:04:33.277Z",
+              "EditorCaption": ""
             }
           ]
         }
