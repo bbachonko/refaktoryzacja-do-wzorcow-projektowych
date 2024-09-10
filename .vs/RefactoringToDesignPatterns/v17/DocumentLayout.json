@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\",
+  "WorkspaceRootPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refactoringtodesignpatterns\\01.codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:01.codesmells\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refactoringtodesignpatterns\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.codesmells\\solutions\\10.refusedbequest.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:01.codesmells\\solutions\\10.refusedbequest.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refactoringtodesignpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|c:\\prywatne\\szkolenia\\refactoring\\refaktoryzacja-do-wzorcow-projektowych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09422B1-3F8A-4077-A29F-373FCF71CE3C}|RefactoringToDesignPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,28 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10.RefusedBequest.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
+              "RelativeDocumentMoniker": "01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
+              "RelativeToolTip": "01.CodeSmells\\Solutions\\10.RefusedBequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:49:38.159Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\01.CodeSmells\\Readme.md",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Readme.md",
               "RelativeDocumentMoniker": "01.CodeSmells\\Readme.md",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\01.CodeSmells\\Readme.md",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\01.CodeSmells\\Readme.md",
               "RelativeToolTip": "01.CodeSmells\\Readme.md",
-              "ViewState": "AQIAABICAAAAAAAAAAAAAAACAAAAAAAA",
+              "ViewState": "AQIAALsBAAAAAAAAAAAAAAACAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-09-08T18:38:06.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\Readme.md",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\Readme.md",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Readme.md",
               "RelativeToolTip": "Readme.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
@@ -51,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\Program.cs",
+              "DocumentMoniker": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\RefactoringToDesignPatterns.csproj": {}
+    "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\RefactoringToDesignPatterns.csproj": {
+    "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\RefactoringToDesignPatterns.csproj",
+        "projectUniqueName": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
         "projectName": "RefactoringToDesignPatterns",
-        "projectPath": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\RefactoringToDesignPatterns.csproj",
+        "projectPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\RefactoringToDesignPatterns.csproj",
         "packagesPath": "C:\\Users\\kowal\\.nuget\\packages\\",
-        "outputPath": "C:\\Prywatne\\szkolenia\\Refactoring\\RefactoringToDesignPatterns\\obj\\",
+        "outputPath": "C:\\Prywatne\\szkolenia\\Refactoring\\refaktoryzacja-do-wzorcow-projektowych\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kowal\\AppData\\Roaming\\NuGet\\NuGet.Config",
