@@ -97,13 +97,15 @@ https://gist.github.com/AliA1997/b4b3e1066dd9f31a78554438ab5d61bd
 ## Zadanie 1
 
 1. Napisz program, który symuluje system zarz¹dzania teksturami w grze. 
-1. Ka¿da tekstura powinna byæ wczytywana z pliku tylko raz i wspó³dzielona pomiêdzy ró¿nymi obiektami, które jej u¿ywaj¹ (np. postaciami, elementami otoczenia).
+1. Ka¿da tekstura powinna byæ wczytywana z pliku tylko raz i wspó³dzielona pomiêdzy ró¿nymi obiektami, 
+które jej u¿ywaj¹ (np. postaciami, elementami otoczenia).
 
 ## Command
 
 ### Zadanie 1
 
-1. Stwórz klasê `SantaClausFactory`. Jej zadaniem bêdzie odbieranie odpowiednich poleceñ (commands) i produkowanie zabawek lub rózg.
+1. Stwórz klasê `SantaClausFactory`. 
+1. Jej zadaniem bêdzie odbieranie odpowiednich poleceñ (commands) i produkowanie zabawek lub rózg.
 2. Stwórz klasê pomocnika Œwiêtego Miko³aja, który bêdzie przekazywa³ polecenia do fabryki.  
 3. Wykonaj 3 zabawki i jedn¹ rózgê.
 
