@@ -108,7 +108,6 @@ class GarnizonBuilder:
 
 
 if __name__ == "__main__":
-    # to be executed using command 'python <relative_path>/factory/factory_main.py
     garnizon = GarnizonBuilder()
 
     print("Trenowanie piechura")
