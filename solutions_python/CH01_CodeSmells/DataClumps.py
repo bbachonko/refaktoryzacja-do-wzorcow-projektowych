@@ -1,6 +1,5 @@
 from datetime import datetime
 from dataclasses import dataclass
-from typing import overload
 """ csharp
 public void RegisterEvent(string eventName, DateTime eventDate, string location)
 {
@@ -14,22 +13,12 @@ class EventDetails:
     event_date: datetime
     location: str
 
-# not updated function
-@overload  
-def register_event(event_name: str,
-                   event_date: datetime,
-                   location: str) -> str:
+
+def register_event(event: EventDetails) -> str:
     return (
-        f"Event: {event_name}, 
-        Date: {event_date}, 
-        Location: {location}"
+        f"Event: {event.event_name}"
+        f"Date: {event.event_date}"
+        f"Location: {event.location}"
     )
 
-# updated funtion
-@overload
-def register_event(event_details: EventDetails) -> str:
-    return (
-        f"Event: {event_details.event_name}, 
-        Date: {event_details.event_date}, 
-        Location: {event_details.location}"
-    )
+
