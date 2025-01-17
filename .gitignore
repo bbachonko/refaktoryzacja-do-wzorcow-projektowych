@@ -619,3 +619,4 @@ FodyWeavers.xsd
 # python shit
 .env
 venv
+*.md
